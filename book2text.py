@@ -1,6 +1,6 @@
-'''Uses os.walk to traverse a diverse the books directory and will convert
-.epub, .pdf, and .mobi files into plain text. This script will not work on
- files that are DRM protected.'''
+#Uses os.walk to traverse a diverse the books directory and will convert
+# .epub, .pdf, and .mobi files into plain text. This script will not work on
+# files that are DRM protected.
 
 
 import sys
